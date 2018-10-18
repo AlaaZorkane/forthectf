@@ -9,18 +9,22 @@
 </blockquote>
 <h1 id="main----">Main    <img src="https://img.shields.io/badge/cd-r00t-brightgreen.svg" alt="cdroot"></h1>
 <ul>
-<li><a href="#crypto">Crypto</a>
+<li><a href="#crypto">Crypto</a> - <em>Zorkane (s0perus0r)</em>
 <ul>
 <li><a href="#general-crypto">General Crypto</a></li>
 <li><a href="#cracking">Cracking</a></li>
 </ul>
 </li>
-<li><a href="#stegano">Stegano</a></li>
-<li>Reverse Engineering</li>
-<li>Web</li>
-<li>Networking</li>
-<li>Misc/Packs</li>
-<li>Editors</li>
+<li><a href="#stegano">Stegano</a> - <em>Zorkane (s0perus0r)</em></li>
+<li><a href="#reverse-engineering">Reverse Engineering</a> - <em>Berraj (heavendub)</em></li>
+<li><a href="#web">Web</a> - <em>Mimoudi</em></li>
+<li><a href="#general">General</a>
+<ul>
+<li><a href="#networking">Networking</a></li>
+<li><a href="#misc/packs">Misc/Packs</a></li>
+<li><a href="#editors">Editors</a></li>
+</ul>
+</li>
 </ul>
 <h2 id="crypto">Crypto</h2>
 <h3 id="general-crypto">General Crypto</h3>
@@ -42,7 +46,7 @@
 <li><a href="https://github.com/lanjelot/patator">Patator</a> - Multi-purpose brute-forcer</li>
 <li><a href="https://github.com/intrd/nozzlr">Nozzlr</a> - Bruteforce framework</li>
 </ul>
-<h1 id="stegano">Stegano</h1>
+<h2 id="stegano">Stegano</h2>
 <ul>
 <li><a href="http://diit.sourceforge.net/">Digital Invisible Ink Toolkit</a> - Extracts messages from images</li>
 <li><a href="https://github.com/luca-m/lsb-toolkit">LSB Toolkit</a> - Python toolkit for analyzing</li>
@@ -68,5 +72,59 @@
 <li><a href="https://github.com/evyatarmeged/stegextract">stegextract</a> - Detect hidden files and text in images</li>
 <li><a href="http://steghide.sourceforge.net/">Steghide</a> - Hide data in various kind of images</li>
 <li><a href="http://www.caesum.com/handbook/Stegsolve.jar">Stegsolve</a> - Apply various steganography techniques to images</li>
+</ul>
+<h2 id="reverse-engineering">Reverse Engineering</h2>
+<ul>
+<li><a href="http://debugger.immunityinc.com/">Immunity Debugger</a>  - Cool debugger/ GUI and CMDLine</li>
+<li><a href="http://www.ollydbg.de/">OllyDbg</a>  - Windows binary code analyzer</li>
+<li><a href="http://ilspy.net/">ILSpy</a>  - .NET C# decompiler</li>
+<li><a href="http://jd.benow.ca/#jd-gui-overview">JD-GUI</a>  - Basic jar decompiler</li>
+<li><a href="http://www.free-decompiler.com/flash/download.html">FFDec</a>  - Flash decompiler</li>
+<li><a href="http://code.google.com/p/dex2jar/">dex2jar</a>  - Name says it all</li>
+<li><a href="https://github.com/wibiti/uncompyle2">Uncompyle2</a> - Python bin -&gt; Python code</li>
+<li><a href="https://github.com/helios-decompiler/Helios">Helios</a> - Java decompiler</li>
+</ul>
+<blockquote>
+<p>From Awesome-CTF</p>
+</blockquote>
+<p><em>Tools used for solving Reversing challenges</em></p>
+<ul>
+<li><a href="https://github.com/androguard/androguard">Androguard</a> - Reverse engineer Android applications</li>
+<li><a href="https://github.com/angr/angr">Angr</a> - platform-agnostic binary analysis framework</li>
+<li><a href="https://github.com/lxdvs/apk2gold">Apk2Gold</a> - Yet another Android decompiler</li>
+<li><a href="http://ibotpeaches.github.io/Apktool/">ApkTool</a> - Android Decompiler</li>
+<li><a href="https://github.com/programa-stic/barf-project">Barf</a> - Binary Analysis and Reverse engineering Framework</li>
+<li><a href="https://binary.ninja/">Binary Ninja</a> - Binary analysis framework</li>
+<li><a href="http://www.gnu.org/software/binutils/binutils.html">BinUtils</a> - Collection of binary tools</li>
+<li><a href="https://github.com/devttys0/binwalk">BinWalk</a> - Analyze, reverse engineer, and extract firmware images.</li>
+<li><a href="https://github.com/nemerle/boomerang">Boomerang</a> - Decompile x86 binaries to C</li>
+<li><a href="https://github.com/docileninja/ctf_import">ctf_import</a> – run basic functions from stripped binaries cross platform</li>
+<li><a href="https://www.gnu.org/software/gdb/">GDB</a> - The GNU project debugger</li>
+<li><a href="https://github.com/hugsy/gef">GEF</a> - GDB plugin</li>
+<li><a href="http://www.hopperapp.com/">Hopper</a> - Reverse engineering tool (disassembler) for OSX and Linux</li>
+<li><a href="https://www.hex-rays.com/products/ida/">IDA Pro</a> - Most used Reversing software</li>
+<li><a href="https://github.com/skylot/jadx">Jadx</a> - Decompile Android files</li>
+<li><a href="http://www.javadecompilers.com">Java Decompilers</a> - An online decompiler for Java and Android APKs</li>
+<li><a href="https://github.com/Storyyeller/Krakatau">Krakatau</a> - Java decompiler and disassembler</li>
+<li><a href="https://github.com/longld/peda">PEDA</a> - GDB plugin (only python2.7)</li>
+<li><a href="https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool">Pin</a> A dynamic binary instrumentaion tool by Intel</li>
+<li><a href="https://github.com/joelpx/plasma">Plasma</a> - An interactive disassembler for x86/ARM/MIPS which can generate indented pseudo-code with colored syntax.</li>
+<li><a href="https://github.com/pwndbg/pwndbg">Pwndbg</a> - A GDB plugin that provides a suite of utilities to hack around GDB easily.</li>
+<li><a href="https://github.com/radare/radare2">radare2</a> - A portable reversing framework</li>
+<li><a href="https://github.com/gstarnberger/uncompyle">Uncompyle</a> - Decompile Python 2.7 binaries (.pyc)</li>
+<li><a href="http://www.windbg.org/">WinDbg</a> - Windows debugger distributed by Microsoft</li>
+<li><a href="http://reverse.lostrealm.com/tools/xocopy.html">Xocopy</a> - Program that can copy executables with execute, but no read permission</li>
+<li><a href="https://github.com/Z3Prover/z3">Z3</a> - a theorem prover from Microsoft Research</li>
+</ul>
+<p><em>JavaScript Deobfuscators</em></p>
+<ul>
+<li><a href="http://relentless-coding.org/projects/jsdetox/install">Detox</a> - A Javascript malware analysis tool</li>
+<li><a href="http://www.kahusecurity.com/tools/Revelo_v0.6.zip">Revelo</a> - Analyze obfuscated Javascript code</li>
+</ul>
+<p><em>SWF Analyzers</em></p>
+<ul>
+<li><a href="https://github.com/CyberShadow/RABCDAsm">RABCDAsm</a> - Collection of utilities including an ActionScript 3 assembler/disassembler.</li>
+<li><a href="http://www.swftools.org/">Swftools</a> - Collection of utilities to work with SWF files</li>
+<li><a href="https://bitbucket.org/Alexander_Hanel/xxxswf">Xxxswf</a> - A Python script for analyzing Flash files.</li>
 </ul>
 
