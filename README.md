@@ -21,7 +21,7 @@
 <li><a href="#general">General</a>
 <ul>
 <li><a href="#networking">Networking</a></li>
-<li><a href="#misc/packs">Misc/Packs</a></li>
+<li><a href="#misc/kits">Misc/Kits</a></li>
 <li><a href="#editors">Editors</a></li>
 </ul>
 </li>
@@ -119,12 +119,37 @@
 <p><em>JavaScript Deobfuscators</em></p>
 <ul>
 <li><a href="http://relentless-coding.org/projects/jsdetox/install">Detox</a> - A Javascript malware analysis tool</li>
-<li><a href="http://www.kahusecurity.com/tools/Revelo_v0.6.zip">Revelo</a> - Analyze obfuscated Javascript code</li>
 </ul>
 <p><em>SWF Analyzers</em></p>
 <ul>
 <li><a href="https://github.com/CyberShadow/RABCDAsm">RABCDAsm</a> - Collection of utilities including an ActionScript 3 assembler/disassembler.</li>
 <li><a href="http://www.swftools.org/">Swftools</a> - Collection of utilities to work with SWF files</li>
 <li><a href="https://bitbucket.org/Alexander_Hanel/xxxswf">Xxxswf</a> - A Python script for analyzing Flash files.</li>
+</ul>
+<h2 id="web">Web</h2>
+<ul>
+<li><a href="https://mxtoolbox.com/">MXToolbox</a> - Online website for basic scanning/analyzing</li>
+<li><a href="http://ironwasp.org/cswsh.html">CSWSH</a> - Cross-Site WebSocket Hijacking Tester</li>
+<li><a href="http://requestb.in/">Request Bin</a> - Lets you inspect http requests to a particular url</li>
+<li><a href="https://beautifier.io/">Beautifier</a> - Javascript beautifier</li>
+<li><a href="http://www.kahusecurity.com/tools/Revelo_v0.6.zip">Revelo</a> - Analyze obfuscated Javascript code</li>
+<li><a href="http://www.phpformatter.com/">PHPFormatter</a> - PHP beautifier</li>
+<li><a href="https://htmlformatter.com/">HTMLFormatter</a> - HTML beautifier</li>
+<li><a href="https://addons.mozilla.org/en-US/firefox/addon/react-devtools/">ReactDevTools</a> - Developer tools for react apps</li>
+<li><a href="https://www.telerik.com/fiddler">Fiddler</a> - Web Debugger</li>
+<li><a href="http://wappalyzer.com/">Wappalyzer</a> - Web technology analyzer</li>
+</ul>
+<blockquote>
+<p>From Awesome-CTF</p>
+</blockquote>
+<ul>
+<li><a href="https://github.com/apsdehal/awesome-ctf/blob/master">BurpSuite</a> - A graphical tool to testing website security.</li>
+<li><a href="https://github.com/commixproject/commix">Commix</a> - Automated All-in-One OS Command Injection and Exploitation Tool.</li>
+<li><a href="https://addons.mozilla.org/en-US/firefox/addon/hackbar-quantum/">Hackbar</a> - Firefox addon for easy web exploitation</li>
+<li><a href="https://www.owasp.org/index.php/Projects/OWASP_Zed_Attack_Proxy_Project">OWASP ZAP</a> - Intercepting proxy to replay, debug, and fuzz HTTP requests and responses</li>
+<li><a href="https://github.com/evyatarmeged/Raccoon">Raccoon</a> - A high performance offensive security tool for reconnaissance and vulnerability scanning</li>
+<li><a href="https://github.com/sqlmapproject/sqlmap">SQLMap</a> - Automatic SQL injection and database takeover tooli</li>
+<li><a href="https://github.com/andresriancho/w3af">W3af</a> - Web Application Attack and Audit Framework.</li>
+<li><a href="http://xsser.sourceforge.net/">XSSer</a> - Automated XSS testor</li>
 </ul>
 
