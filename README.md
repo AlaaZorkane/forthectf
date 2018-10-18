@@ -30,6 +30,7 @@
 <h2 id="crypto">Crypto</h2>
 <h3 id="general-crypto">General Crypto</h3>
 <ul>
+<li><a href="http://www.crypo.com/">Crypto</a> - Decrypts/encrypts everything</li>
 <li><a href="https://www.cryptool.org/en/ct2-downloads">CrypTool2</a> - Win32/64 Crypto experimenting tool</li>
 <li><a href="https://github.com/nccgroup/featherduster">FeatherDuster</a> - Identifying and exploiting weak cryptosystems</li>
 <li><a href="https://sites.google.com/site/cryptocrackprogram/">CryptoCrack</a> - Identify and crack famous ciphers</li>
@@ -160,6 +161,7 @@
 <li><a href="http://www.tcpdump.org/">tcpdump</a>  - Packet analyzer/Traffic capture</li>
 <li><a href="http://netcat.sourceforge.net/">netcat</a> - Reads and Writes data across network connections</li>
 <li><a href="https://scapy.net/download/">Scappy</a> - Forge, send and capture packets over the network</li>
+<li><a href="https://www.snort.org/">Snort</a> - Detects attacks over network</li>
 <li><a href="https://www.kismetwireless.net/download.shtml">Kismet</a> - Wireless network detector, sniffer, and intrusion detection system</li>
 </ul>
 <blockquote>
@@ -183,6 +185,7 @@
 <li><a href="http://binwalk.org/">Binwalk</a> - A tool that helps identify and analyze binaries</li>
 <li>File Utility - Detecs various file types</li>
 <li><a href="https://www.forensicswiki.org/wiki/Strings">Strings</a> - Exports ASCII/unicode strings from  various files</li>
+<li><a href="https://www.xplico.org/">Xplico</a> - Network forensics tool</li>
 </ul>
 <blockquote>
 <p>From AwesomeCTF</p>
@@ -223,4 +226,24 @@
 <li><a href="http://www.forensicswiki.org/wiki/USB_History_Viewing">UsbForensics</a> - Contains many tools for usb forensics</li>
 <li><a href="https://github.com/volatilityfoundation/volatility">Volatility</a> - To investigate memory dumps</li>
 </ul>
+<h3 id="misckits">Misc/Kits</h3>
+<ul>
+<li><a href="https://github.com/P1kachu/v0lt">V0lt</a> - Security CTF Toolkit</li>
+<li><a href="https://www.sleuthkit.org/">The Sleuth Kit</a> - Digital forensics kit</li>
+<li><a href="http://www.metasploit.com/">Metasploit</a> - Penetration testing software</li>
+<li><a href="https://github.com/Gallopsled/pwntools">Pwntools</a> - CTF Framework for writing exploits (python)</li>
+<li><a href="https://github.com/bettercap/bettercap">Bettercap</a> - Framework to perform MITM (Man in the Middle) attacks.</li>
+<li><a href="https://github.com/tomac/yersinia">Layer 2 attacks</a> - Attack various protocols on layer 2</li>
+<li><a href="https://regexr.com/">RegExr</a> - RegEx testing/analyzing</li>
+<li><a href="https://www.torproject.org/download/download-easy.html.en">TorBrowser</a> - Anonymity matters ;)</li>
+<li><a href="https://github.com/zardus/ctf-tools">ctfTools</a> - Everything(ish) you need</li>
+</ul>
+<h3 id="editors">Editors</h3>
+<ul>
+<li><a href="https://code.visualstudio.com/">Visual Studio Code</a> - Cool editor with collaborative editing over the internet</li>
+<li><a href="http://www.new-hex-editor.com/hex-editor-downloads.html">Neo</a> - Hex editor for windows</li>
+<li><a href="https://github.com/bwrsandman/Bless">Bless</a> - Hex editor for linux</li>
+</ul>
+<h1 id="thats-it">That’s it!</h1>
+<p>Thanks uwu - Alaa Zorkane</p>
 
