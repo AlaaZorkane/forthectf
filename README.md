@@ -28,6 +28,7 @@
 <li><a href="https://www.cryptool.org/en/ct2-downloads">CrypTool2</a> - Win32/64 Crypto experimenting tool</li>
 <li><a href="https://github.com/nccgroup/featherduster">FeatherDuster</a> - Identifying and exploiting weak cryptosystems</li>
 <li><a href="https://sites.google.com/site/cryptocrackprogram/">CryptoCrack</a> - Identify and crack famous ciphers</li>
+<li><a href="https://sourceforge.net/projects/yafu/">Yafu</a> - Integers factoring ( RSA related )</li>
 <li><a href="https://github.com/Ganapati/RsaCtfTool">RSA-CTFTool</a> - Automated attacks on weak public keys</li>
 <li><a href="https://github.com/hellman/xortool">XORTool</a> - Analzying XOR Ciphers</li>
 <li><a href="https://www.unix-ag.uni-kl.de/%7Econrad/krypto/pkcrack.html">PkCrack</a> - Breaking PkZip Encryption</li>
@@ -42,4 +43,30 @@
 <li><a href="https://github.com/intrd/nozzlr">Nozzlr</a> - Bruteforce framework</li>
 </ul>
 <h1 id="stegano">Stegano</h1>
+<ul>
+<li><a href="http://diit.sourceforge.net/">Digital Invisible Ink Toolkit</a> - Extracts messages from images</li>
+<li><a href="https://github.com/luca-m/lsb-toolkit">LSB Toolkit</a> - Python toolkit for analyzing</li>
+<li><a href="https://www.openstego.com/">OpenStego</a> - Extracts hidden data from images</li>
+<li><a href="https://silenteye.v1kings.io/">SilentEye</a> - Hides data in images/sounds</li>
+<li><a href="http://www.libpng.org/pub/png/apps/pngcheck.html">PNGCheck</a> - Dump information from images</li>
+<li><a href="http://www.petitcolas.net/steganography/mp3stego/">MP3Stego</a> - Mp3 stegano tool</li>
+</ul>
+<blockquote>
+<p>From Awesome-CTF</p>
+</blockquote>
+<ul>
+<li><a href="http://www.imagemagick.org/script/convert.php">Convert</a> - Convert images b/w formats and apply filters</li>
+<li><a href="http://manpages.ubuntu.com/manpages/trusty/man1/exif.1.html">Exif</a> - Shows EXIF information in JPEG files</li>
+<li><a href="https://linux.die.net/man/1/exiftool">Exiftool</a> - Read and write meta information in files</li>
+<li><a href="http://www.exiv2.org/manpage.html">Exiv2</a> - Image metadata manipulation tool</li>
+<li><a href="https://www.freebsd.org/cgi/man.cgi?query=outguess+&amp;apropos=0&amp;sektion=0&amp;manpath=FreeBSD+Ports+5.1-RELEASE&amp;format=html">Outguess</a> - Universal steganographic tool</li>
+<li><a href="http://www.stillhq.com/pngtools/">Pngtools</a> - For various analysis related to PNGs</li>
+<li><a href="https://github.com/Y-Vladimir/SmartDeblur">SmartDeblur</a> - Used to deblur and fix defocused images</li>
+<li><a href="https://www.openhub.net/p/steganabara">Steganabara</a> - Tool for stegano analysis written in Java</li>
+<li><a href="https://linux.die.net/man/1/stegbreak">Stegbreak</a> - Launches brute-force dictionary attacks on JPG image</li>
+<li><a href="https://github.com/Paradoxis/StegCracker">StegCracker</a> - Steganography brute-force utility to uncover hidden data inside files</li>
+<li><a href="https://github.com/evyatarmeged/stegextract">stegextract</a> - Detect hidden files and text in images</li>
+<li><a href="http://steghide.sourceforge.net/">Steghide</a> - Hide data in various kind of images</li>
+<li><a href="http://www.caesum.com/handbook/Stegsolve.jar">Stegsolve</a> - Apply various steganography techniques to images</li>
+</ul>
 
