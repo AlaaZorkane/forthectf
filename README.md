@@ -84,6 +84,7 @@
 <li><a href="http://code.google.com/p/dex2jar/">dex2jar</a>  - Name says it all</li>
 <li><a href="https://github.com/wibiti/uncompyle2">Uncompyle2</a> - Python bin -&gt; Python code</li>
 <li><a href="https://github.com/helios-decompiler/Helios">Helios</a> - Java decompiler</li>
+<li><a href="https://dwheeler.com/flawfinder/">FlawFinder</a> -  Finds security weaknesses in C/C++ codes</li>
 </ul>
 <blockquote>
 <p>From Awesome-CTF</p>
@@ -152,5 +153,74 @@
 <li><a href="https://github.com/sqlmapproject/sqlmap">SQLMap</a> - Automatic SQL injection and database takeover tooli</li>
 <li><a href="https://github.com/andresriancho/w3af">W3af</a> - Web Application Attack and Audit Framework.</li>
 <li><a href="http://xsser.sourceforge.net/">XSSer</a> - Automated XSS testor</li>
+</ul>
+<h2 id="general">General</h2>
+<h3 id="networking">Networking</h3>
+<ul>
+<li><a href="http://www.tcpdump.org/">tcpdump</a>  - Packet analyzer/Traffic capture</li>
+<li><a href="http://netcat.sourceforge.net/">netcat</a> - Reads and Writes data across network connections</li>
+<li><a href="https://scapy.net/download/">Scappy</a> - Forge, send and capture packets over the network</li>
+<li><a href="https://www.kismetwireless.net/download.shtml">Kismet</a> - Wireless network detector, sniffer, and intrusion detection system</li>
+</ul>
+<blockquote>
+<p>From AwesomeCTF</p>
+</blockquote>
+<ul>
+<li><a href="https://www.bro.org/">Bro</a> - An open-source network security monitor.</li>
+<li><a href="https://github.com/robertdavidgraham/masscan">Masscan</a> - Mass IP port scanner, TCP port scanner.</li>
+<li><a href="https://linoxide.com/monitoring-2/monit-linux/">Monit</a> - A linux tool to check a host on the network (and other non-network activities).</li>
+<li><a href="https://github.com/GouveaHeitor/nipe">Nipe</a> - Nipe is a script to make Tor Network your default gateway.</li>
+<li><a href="https://nmap.org/">Nmap</a> - An open source utility for network discovery and security auditing.</li>
+<li><a href="https://www.wireshark.org/">Wireshark</a> - Analyze the network dumps.
+<ul>
+<li><code>apt-get install wireshark</code></li>
+</ul>
+</li>
+<li><a href="https://zmap.io/">Zmap</a> - An open-source network scanner.</li>
+</ul>
+<h3 id="forensics">Forensics</h3>
+<ul>
+<li><a href="http://binwalk.org/">Binwalk</a> - A tool that helps identify and analyze binaries</li>
+<li>File Utility - Detecs various file types</li>
+<li><a href="https://www.forensicswiki.org/wiki/Strings">Strings</a> - Exports ASCII/unicode strings from  various files</li>
+</ul>
+<blockquote>
+<p>From AwesomeCTF</p>
+</blockquote>
+<ul>
+<li><a href="http://www.aircrack-ng.org/">Aircrack-Ng</a> - Crack 802.11 WEP and WPA-PSK keys
+<ul>
+<li><code>apt-get install aircrack-ng</code></li>
+</ul>
+</li>
+<li><a href="http://sourceforge.net/projects/audacity/">Audacity</a> - Analyze sound files (mp3, m4a, whatever)
+<ul>
+<li><code>apt-get install audacity</code></li>
+</ul>
+</li>
+<li><a href="http://sourceforge.net/projects/ophcrack/files/samdump2/">Bkhive and Samdump2</a> - Dump SYSTEM and SAM files
+<ul>
+<li><code>apt-get install samdump2 bkhive</code></li>
+</ul>
+</li>
+<li><a href="http://www.ntcore.com/exsuite.php">CFF Explorer</a> - PE Editor</li>
+<li><a href="https://github.com/moyix/creddump">Creddump</a> - Dump windows credentials</li>
+<li><a href="https://github.com/kost/dvcs-ripper">DVCS Ripper</a> - Rips web accessible (distributed) version control systems</li>
+<li><a href="http://www.sno.phy.queensu.ca/%7Ephil/exiftool/">Exif Tool</a> - Read, write and edit file metadata</li>
+<li><a href="http://extundelete.sourceforge.net/">Extundelete</a> - Used for recovering lost data from mountable images</li>
+<li><a href="https://github.com/rabbitstack/fibratus">Fibratus</a> - Tool for exploration and tracing of the Windows kernel</li>
+<li><a href="http://foremost.sourceforge.net/">Foremost</a> - Extract particular kind of files using headers
+<ul>
+<li><code>apt-get install foremost</code></li>
+</ul>
+</li>
+<li><a href="http://linux.die.net/man/8/fsck.ext3">Fsck.ext4</a> - Used to fix corrupt filesystems</li>
+<li><a href="http://malzilla.sourceforge.net/">Malzilla</a> - Malware hunting tool</li>
+<li><a href="http://www.netresec.com/?page=NetworkMiner">NetworkMiner</a> - Network Forensic Analysis Tool</li>
+<li><a href="http://malzilla.sourceforge.net/downloads.html">PDF Streams Inflater</a> - Find and extract zlib files compressed in PDF files</li>
+<li><a href="http://www.nirsoft.net/utils/resources_extract.html">ResourcesExtract</a> - Extract various filetypes from exes</li>
+<li><a href="https://github.com/williballenthin/shellbags">Shellbags</a> - Investigate NT_USER.dat files</li>
+<li><a href="http://www.forensicswiki.org/wiki/USB_History_Viewing">UsbForensics</a> - Contains many tools for usb forensics</li>
+<li><a href="https://github.com/volatilityfoundation/volatility">Volatility</a> - To investigate memory dumps</li>
 </ul>
 
