@@ -3,7 +3,6 @@
 
 ---
 
-<p><img src="https://i.imgur.com/bEQAcaH.jpg" alt="cd/r00t"></p>
 <blockquote>
 <p>A collection of tools assembled for the RedEye Hacknight CTF Competition</p>
 </blockquote>
