@@ -8,15 +8,15 @@
 </blockquote>
 <h1 id="main----">Main    <img src="https://img.shields.io/badge/cd-r00t-brightgreen.svg" alt="cdroot"></h1>
 <ul>
-<li><a href="#crypto">Crypto</a> - <em>Zorkane (arceeuuss)</em>
+<li><a href="#crypto">Crypto</a>
 <ul>
 <li><a href="#general-crypto">General Crypto</a></li>
 <li><a href="#cracking">Cracking</a></li>
 </ul>
 </li>
-<li><a href="#stegano">Stegano</a> - <em>Zorkane (arceeuuss)</em></li>
-<li><a href="#reverse-engineering">Reverse Engineering</a> - <em>Berraj (heavendub)</em></li>
-<li><a href="#web">Web</a> - <em>Mimoudi</em></li>
+<li><a href="#stegano">Stegano</a>
+<li><a href="#reverse-engineering">Reverse Engineering</a></li>
+<li><a href="#web">Web</a></li>
 <li><a href="#general">General</a>
 <ul>
 <li><a href="#networking">Networking</a></li>
