@@ -1,9 +1,5 @@
----
+**This is a (somewhat) outdated list, some of the resources here must've changed, and some links may be broken, you're free to PR if you find something that's broken. Also, I am not responsable for whatever things you do with these tools, I assembled them for educational reasons only.**
 
-
----
-
-<blockquote>
 <p>A collection of tools assembled for the RedEye Hacknight CTF Competition</p>
 </blockquote>
 <h1 id="main----">Main    <img src="https://img.shields.io/badge/cd-r00t-brightgreen.svg" alt="cdroot"></h1>
